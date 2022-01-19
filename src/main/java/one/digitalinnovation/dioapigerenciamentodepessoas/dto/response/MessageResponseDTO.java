@@ -1,4 +1,4 @@
-package one.digitalinnovation.dioapigerenciamentodepessoas.dto;
+package one.digitalinnovation.dioapigerenciamentodepessoas.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
